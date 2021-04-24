@@ -19,8 +19,11 @@ For Windows
 >./a.exe
 
 ## Preview
-Title:
-![title](images/title.png)
+Title and Menu:
+![Title and Menu](images/titleAndMenu.png)
 
-Menu:
-![menu](images/menu.png)
+Flight Seat Map:
+![Flight Seat Map](images/flightSeatMap.png)
+
+Passengers Information:
+![Passengers Information](images/passengersInformation.png)
