@@ -17,3 +17,10 @@ For MacOS
 
 For Windows
 >./a.exe
+
+## Preview
+Title:
+![title](images/title.png)
+
+Menu:
+![menu](images/menu.png)
